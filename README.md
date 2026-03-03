@@ -1,4 +1,4 @@
-# estudos-ciberseguran-a
+# estudos-cibersegurança
 Repositorio criado para documentar minha evolução na área de Cibersegurança e redes. 
 
 ## Área de estudo
